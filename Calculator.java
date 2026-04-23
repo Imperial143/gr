@@ -22,8 +22,8 @@ public class Calculator {
         Calculator c = new Calculator();
 
         // ✅ Inputs given directly in code (different for each operation)
-        int addA = 5, addB = 5;
-        int subA = 5, subB = 3;
+        int addA = 6, addB = 6;
+        int subA = 5, subB = 4;
         int mulA = 3, mulB = 5;
         int divA = 10, divB = 2;
 
